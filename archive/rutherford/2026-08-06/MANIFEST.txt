@@ -1,0 +1,6 @@
+url          https://secured.rutherfordcountytn.gov/election/080626-html/Rutherford_ElecSumm_all.htm
+fetched_at   2026-09-15T15:42:57.932Z
+http_status  200
+bytes        103935
+sha256       e13651e5c2a942cd7dacb1eada685614527d43bb950ddc667ed78a80e55c8af2
+user_agent   tnlocal/0.1 (Out of Many. Us local-results kit; +https://github.com/outofmany-us; hello@mail.outofmany.us)
