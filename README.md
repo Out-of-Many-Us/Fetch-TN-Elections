@@ -1,4 +1,4 @@
-# Fetch-TN-Elections
+# fetch-tn
 
 The fetch tool for Tennessee election results at the county level.
 
